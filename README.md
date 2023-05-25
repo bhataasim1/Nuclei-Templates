@@ -7,4 +7,7 @@ A list of Git repos Contaning Nuclei Templates can be downloaded within 1 click.
 2) `cd Nuclei-Templates`
 3) `python3 script.py`
 
+## Contribution
+For Those who want to contribute in this. just Update the `github_urls.txt` file. 
+
 All Done #Happy_Hacking
