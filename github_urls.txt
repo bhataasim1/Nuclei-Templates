@@ -1,3 +1,4 @@
+https://github.com/bhataasim1/PersonalTemplates.git
 https://github.com/pikpikcu/nuclei-templates
 https://github.com/esetal/nuclei-bb-templates
 https://github.com/ARPSyndicate/kenzer-templates
